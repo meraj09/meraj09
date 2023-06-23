@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hi there, I'm Meraj Siddique 👋
+I'm a frontend developer with expertise in HTML, CSS, JavaScript, Git, and GitHub. I am passionate about creating clean and modern user interfaces and enjoy working with the latest web technologies.
 
-<!--
-**meraj09/meraj09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🌱 I’m currently learning JavaScript<br>
+🔭 I’m currently working on a project using JavaScript<br>
+💬 Ask me about web development, frontend design, or anything related to tech!<br>
+📫 How to reach me: merajsiddique09@gmail.com<br>
+😄 Pronouns: He/Him
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+* HTML
+* CSS
+* TailwindCSS
+* SASS
+* JavaScript
+* Git
+* GitHub
