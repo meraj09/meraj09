@@ -11,8 +11,6 @@ I'm a frontend developer with expertise in HTML, CSS, JavaScript, Git, and GitHu
 ## My Skills
 * HTML
 * CSS
-* TailwindCSS
-* SASS
 * JavaScript
 * Git
 * GitHub
