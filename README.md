@@ -12,6 +12,5 @@ I'm a frontend developer with expertise in HTML, CSS, JavaScript, Git, and GitHu
 * HTML
 * CSS
 * JavaScript
-* Git
 * GitHub
 *  Tailwind CSS
